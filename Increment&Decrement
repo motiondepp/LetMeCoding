@@ -1,0 +1,10 @@
+The prefix form increments/decrements the variable and then uses it in assignment statement.
+The postfix form uses the value of the variable first, before incrementing/decrementing it.
+
+What is the value of x after the following code?
+int x = 8;
+int y = 7;
+x++;
+x += y--;
+
+the answer is 16.
